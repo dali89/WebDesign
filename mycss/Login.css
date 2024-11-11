@@ -1,0 +1,43 @@
+*{
+    box-sizing:border-box; 
+  
+     margin:0px;
+}
+.container{
+    background-image: url(../myimage/back2.jpg);
+}
+
+.box{
+    position:fixed;
+    text-align: center;
+    background-color: aqua;
+    width:260px;
+    height:260px;
+    margin-top:80px;
+    margin-left: 300px;
+    /* animation:animate 10s linear infinite; */
+}
+/* .t1{
+    position:fixed;
+    background-color: rgb(17, 0, 255);
+    animation:animate 10s linear infinite;
+} */
+/* @keyframes animate{
+    0%{
+        transform: rotate(0deg);
+    }
+    100%{
+        transform: rotate(720deg);
+    }
+} */
+.inputbox{
+    position:fixed;
+    text-align: center;
+    background-color: aqua;
+}
+#d1{
+  
+
+      background-color: black;
+     height:600px;
+}

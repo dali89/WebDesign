@@ -1,0 +1,342 @@
+*{
+    background-color:black;
+}
+.container{
+    margin-left: 100px;
+    margin-top:80px;
+}
+table tr td{
+    padding-top: 5px;
+    padding-left: 5px;
+    padding-bottom:5px;
+    padding-right:5px;
+}
+#d1{
+    color:black;
+    background-color:white;
+}
+#d2{
+    color:white; 
+    background-color: #000000;
+}
+#d3{
+
+    color:white;
+    background:rgb(55, 55, 55);
+}
+#d4{
+    color:black;
+    background:rgb(161, 160, 160);
+}
+#d5{
+    color:black;
+    background:rgb(217, 215, 215);
+}
+#d6{
+    color:black;
+    background:rgb(239, 237, 237);
+}
+#d7{
+    color:black;
+    background:rgb(218, 218, 220);
+}
+#d8{
+    color:white;
+    background:rgb(165, 142, 247);
+}
+#d9{
+    color:white;
+    background:rgb(158, 133, 248);
+}
+
+#d10{
+    color:white;
+    background:rgb(92, 1, 1);
+}
+#d11{
+    color:white; 
+    background: rgb(98, 73, 73);
+}
+#d12{
+
+    color:white;
+    background:rgb(167, 124, 124);
+}
+#d13{
+    color:white;
+    background:rgb(1, 65, 1);
+}
+#d14{
+    color:white;
+    background:rgb(31, 44, 111);
+}
+#d15{
+    color:white;
+    background:rgb(59, 47, 221);
+}
+#d16{
+    color:white;
+    background:rgb(72, 5, 241);
+}
+#d17{
+    color:white;
+    background:rgb(104, 17, 245);
+}
+#d18{
+    color:white;
+    background:rgb(170, 12, 182);
+}
+#d19{
+    color:white;
+    background:rgb(137, 15, 15);
+}
+#d20{
+    color:white; 
+    background: rgb(116, 33, 33);
+}
+#d21{
+
+    color:white;
+    background:rgb(207, 138, 8);
+}
+#d22{
+    color:white;
+    background:rgb(10, 107, 10);
+}
+#d23{
+    color:white;
+    background:rgb(46, 75, 161);
+}
+#d24{
+    color:white;
+    background:rgb(47, 105, 221);
+}
+#d25{
+    color:white;
+    background:rgb(27, 30, 196);
+}
+#d26{
+    color:white;
+    background:rgb(121, 48, 238);
+}
+#d27{
+    color:white;
+    background:rgb(192, 29, 181);
+}
+#d28{
+    color:white;
+    background:rgb(166, 36, 36);
+}
+#d29{
+    color:white; 
+    background: rgb(133, 42, 42);
+}
+#d30{
+
+    color:white;
+    background:rgb(214, 154, 43);
+}
+#d31{
+    color:white;
+    background:rgb(28, 136, 28);
+}
+#d32{
+    color:white;
+    background:rgb(72, 103, 198);
+}
+#d33{
+    color:white;
+    background:rgb(75, 121, 215);
+}
+#d34{
+    color:white;
+    background:rgb(50, 53, 214);
+}
+#d35{
+    color:white;
+    background:rgb(134, 67, 242);
+}
+#d36{
+    color:white;
+    background:rgb(196, 53, 187);
+}
+#d37{
+    color:white;
+    background:rgb(145, 23, 23);
+}
+#d38{
+    color:white; 
+    background: rgb(167, 66, 66);
+}
+#d39{
+
+    color:white;
+    background:rgb(188, 137, 42);
+}
+#d40{
+    color:white;
+    background:rgb(36, 159, 36);
+}
+#d41{
+    color:white;
+    background:rgb(88, 122, 224);
+}
+#d42{
+    color:white;
+    background:rgb(80, 132, 236);
+}
+#d43{
+    color:white;
+    background:rgb(57, 59, 215);
+}
+#d44{
+    color:white;
+    background:rgb(151, 89, 252);
+}
+#d45{
+    color:white;
+    background:rgb(228, 70, 217);
+}
+#d46{
+    color:white; 
+    background: rgb(171, 64, 64);
+}
+#d47{
+    color:white; 
+    background: rgb(180, 81, 81);
+}
+#d48{
+
+    color:white;
+    background:rgb(215, 165, 73);
+}
+#d49{
+    color:white;
+    background:rgb(67, 173, 67);
+}
+#d50{
+    color:white;
+    background:rgb(89, 120, 213);
+}
+#d51{
+    color:white;
+    background:rgb(82, 131, 228);
+}
+#d52{
+    color:white;
+    background:rgb(75, 77, 205);
+}
+#d53{
+    color:white;
+    background:rgb(164, 108, 255);
+}
+#d54{
+    color:white;
+    background:rgb(222, 83, 212);
+}
+
+#d55{
+
+    color:white;
+    background: rgb(179, 74, 74);
+}
+#d56{
+    color:white;
+    background: rgb(194, 93, 93);
+}
+#d57{
+    color:white;
+    background:rgb(220, 166, 67);
+}
+#d58{
+    color:white;
+    background:rgb(94, 197, 94);
+}
+#d59{
+    color:white;
+    background:rgb(81, 138, 235);
+}
+#d60{
+    color:white;
+    background:rgb(115, 162, 237);}
+#d61{
+    color:white;
+    background:rgb(94, 96, 212);
+}
+#d62{
+    color:white; 
+    background: rgb(188, 105, 232);
+}
+#d63{
+
+    color:white;
+    background:rgb(235, 107, 237);
+}
+#d64{
+    color:white;
+    background: rgb(172, 82, 82);
+}
+#d65{
+    color:white;
+    background:rgb(223, 180, 100);
+}
+#d66{
+    color:white;
+    background:rgb(75, 165, 138);
+}
+#d67{
+    color:white;
+   background:rgb(100, 149, 217);
+}
+#d68{
+    color:white;
+    background:rgb(100, 149, 217);
+}
+#d69{
+    color:white;
+    background:rgb(110, 112, 220);}
+#d70{
+    color:white; 
+    background: rgb(197, 119, 239);
+}
+#d71{
+
+    color:white;
+    background:rgb(230, 117, 232);
+}
+#d72{
+    color:white;
+    background: rgb(200, 71, 71);
+}
+#d73{
+    color:white;
+    background: rgb(200, 116, 116);
+}
+#d74{
+    color:white;
+    background:rgb(205, 166, 92);
+}
+#d75{
+    color:white;
+    background:rgb(75, 158, 75);
+}
+#d76{
+    color:white;
+    background:rgb(60, 120, 209);
+}
+#d77{
+    color:white;
+    background:rgb(55, 173, 223);
+}
+#d78{
+    color:white;
+    background:rgb(90, 93, 238);
+}
+#d79{
+    color:white;
+    background:rgb(177, 136, 241);
+}
+#d80{
+    color:white;
+    background:rgb(249, 130, 241);
+}

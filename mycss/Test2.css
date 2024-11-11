@@ -1,0 +1,36 @@
+*{
+    box-sizing:border-box; 
+    background-color:black;
+     margin:0px;
+}
+.box1{
+    position:fixed;
+    text-align: center;
+ background-color: aqua;
+ width:360px;
+ height:260px;
+ margin-top:80px;
+ margin-left: 240px;
+}
+
+.box{
+    position:absolute;
+    top:-50%;
+    left:-20px;
+    width:380px;
+    height:420px;
+    background: linear-gradient(0deg,transparent,
+    transparent,rgb(0, 110, 255),rgb(0, 132, 255),rgb(0, 174, 255));
+    transform-origin: bottom right;
+
+    x-index:1;
+    animation:animate 10s linear infinite;
+}
+@keyframes animate{
+    0%{
+        transform: rotate(0deg);
+    }
+    100%{
+        transform: rotate(360deg);
+    }
+}

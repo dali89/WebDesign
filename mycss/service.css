@@ -1,0 +1,90 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+}
+.container{
+   background-image: url(/myimage/SASASA.jpg);
+    display: grid;
+    grid-template-columns:200px 600px 200px;
+    grid-column-start: 1;
+    grid-column-end:4;
+    grid-row-start: 1;
+    grid: row end 16px; ;
+}
+.box1{
+    height:500px;
+    width:620px;
+    background-color:#fff5;
+    border-radius:15px;
+    margin-top:30px;
+    margin-left:280px;
+    /* display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr; */
+    grid-column-start: 2;
+    grid-column-end:4;
+    grid-row-start: 3;
+    grid-row-end:10;
+}
+.table{
+    backdrop-filter:blur(2px);
+}
+.box2{
+   
+     display: grid;/*
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr; */
+    grid-column-start: 2;
+    grid-column-end:3;
+    grid-row-start: 10;
+    grid-row-end:15;
+}
+#d1{
+    /* grid-column-start:1 ;
+    grid-column-end:6;
+    grid-row-start: 1;
+    grid-row-end:2; */
+    padding-left:40px;
+}
+#d11{
+    padding-top:10px;
+    padding-left:30px;
+    padding-right:30px;
+}
+#d12{
+    padding-top:10px;
+    padding-left:30px;
+    padding-right:30px;
+}
+#d13{
+    padding-top:10px;
+    padding-left:45px;
+    padding-right:30px;
+}
+#d14{
+    padding-top:10px;
+    padding-left:10px;
+    padding-right:30px;
+}
+#d15{
+    padding-top:10px;
+    padding-left:60px;
+   
+}
+#d16{
+    padding-top:10px;
+    padding-left:25px;
+ 
+}
+#d2{
+    padding-top:20px;
+}
+#d111{
+    font-size:34px;
+    margin-left:30px;
+    margin-top:-10px;
+}
+.d2:hover{
+    color:white;
+    background-color:black;
+    border-bottom:2px solid rgb(243, 135, 47);
+}

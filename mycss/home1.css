@@ -1,0 +1,39 @@
+
+*{
+    box-sizing:border-box;
+    margin:0px;
+}
+#d1{
+    float:left;
+  
+  width:100vw;
+  height:40px;
+   
+    background-color:brown;
+}
+#d2{
+   float:left;
+ 
+  width:49.5vw;
+  height: 110px;
+   
+    background-color:green;
+}
+#d3{
+  float:right;
+    display:inline-block; 
+
+  
+  width:49.3vw;
+  height:110px;
+   
+    background-color: green;
+}
+#d4{
+    float:left;
+  
+  width:100vw;
+  height:40px;
+ 
+    background-color:brown;
+}
